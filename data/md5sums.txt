@@ -1,0 +1,136 @@
+de08c3a889049e240c06a7f048f20b09  beeAnnotations.mlf
+8c752b7fbf749518b443eea64ef993ed  CF001 - Missing Queen - Day -.lab
+7619dc60d425a1ab8604bd4212e11e83  CF001 - Missing Queen - Day -.mp3
+accfc41ffc92d8654eca9b19dff4d0a7  CF003 - Active - Day - (214).lab
+ef54bf7122b3689f80d1c71852e34975  CF003 - Active - Day - (214).wav
+c897b1f4e7b0252eaee197238584524c  CF003 - Active - Day - (215).lab
+5914a41640ca4c0a31718039c21fa808  CF003 - Active - Day - (215).wav
+8971bde973fb3773a090c58aad9379be  CF003 - Active - Day - (216).lab
+8caa6a8c113007f160c188ca449160b6  CF003 - Active - Day - (216).wav
+8daf6a9bdfe268c7dd67570763d11119  CF003 - Active - Day - (217).lab
+3d3141627c7b1a8f8eae9de5968d7a4b  CF003 - Active - Day - (217).wav
+4bdd06811e0944f28a822abe3b7d42f3  CF003 - Active - Day - (218).lab
+3f703c3cfeac42a77b94bed390146698  CF003 - Active - Day - (218).wav
+8d8a5de910662a9efbeaa2b7e54bc5e3  CF003 - Active - Day - (219).lab
+cdb5d11da1672cde4359bab6b3e556f2  CF003 - Active - Day - (219).wav
+b420928d577f910fb4e17b3d4842950e  CF003 - Active - Day - (220).lab
+4024e4f8f4c6a3d57a21cf325e785a5b  CF003 - Active - Day - (220).wav
+319d1c52f4bf21e58e8e1b2469140399  CF003 - Active - Day - (221).lab
+81ad59f3eddf702a15fbfefbf4566add  CF003 - Active - Day - (221).wav
+531c8ae89c5fce1659aebf4cdce6fa6f  CF003 - Active - Day - (222).lab
+e519337dd0de723a749f21649ae78297  CF003 - Active - Day - (222).wav
+c8eff4f097f972ba565426d48763e4e7  CF003 - Active - Day - (223).lab
+10f793da1e512be4eb2c9f945fafe2c6  CF003 - Active - Day - (223).wav
+604170385d6efd8d76f740f2057b6b66  CF003 - Active - Day - (224).lab
+69f6e4dde181719c57939a955de1901a  CF003 - Active - Day - (224).wav
+547d2966f4d37499e437e46be152fcaf  CF003 - Active - Day - (225).lab
+fc6cdcc3a4e562949b6576583f3dacb6  CF003 - Active - Day - (225).wav
+54e3cc2f7f69bbfeb4407d1e616598a4  CF003 - Active - Day - (226).lab
+a7fba7ad5b5cf17fdd49cae1367c1110  CF003 - Active - Day - (226).wav
+c6df17614dba073b9da2ddd148f22c3c  CF003 - Active - Day - (227).lab
+bd0e8c7b32ca98f05da54b674c359a32  CF003 - Active - Day - (227).wav
+de77fa35d8ebfee96ff544aa23fa991e  CJ001 - Missing Queen - Day -  (100).lab
+7f609ee00cb3152a8d1d0f34a121413b  CJ001 - Missing Queen - Day -  (100).wav
+eeb4ebc581d948b97fd6c8cd4e229532  CJ001 - Missing Queen - Day -  (101).lab
+2b18ac05da9b1591ecaae763277be78e  CJ001 - Missing Queen - Day -  (101).wav
+56c3577cfaf98e153b3a9b8677f6a2e6  CJ001 - Missing Queen - Day -  (102).lab
+7a7b9318e482922c5375acffcb6dd4f3  CJ001 - Missing Queen - Day -  (102).wav
+01d0183ba132c4d01c758960240333f4  CJ001 - Missing Queen - Day -  (103).lab
+9a6ae560df5a517e52896f68becd0314  CJ001 - Missing Queen - Day -  (103).wav
+c7727beb1a2bf8d86b6d0899f7888183  CJ001 - Missing Queen - Day -  (104).lab
+833b60e9a109f7eb25801104977f2006  CJ001 - Missing Queen - Day -  (104).wav
+6ad9ce2d2930c88c46fd9229f441335a  Dataset documentation.pdf
+5525cfbcb6579e80b92e3933a90e4de0  GH001 - Active - Day - 141022_0659_0751.lab
+dc0aa0e87b4cb6f3845e28c0e64a10b5  GH001 - Active - Day - 141022_0659_0751.mp3
+8e95f7f4a00fd75774e007e4b0f038a8  Hive1_12_06_2018_QueenBee_H1_audio___15_00_00.lab
+672dae7ead4fdae19c79f794467db1ed  Hive1_12_06_2018_QueenBee_H1_audio___15_00_00.wav
+fcc9764e9cb5b6a22f6d02bd985269a8  Hive1_12_06_2018_QueenBee_H1_audio___15_10_00.lab
+29478441c7cb26794b7fdfaea6f4eba7  Hive1_12_06_2018_QueenBee_H1_audio___15_10_00.wav
+dfb6344dabf84b4c2b473eb79e0079b1  Hive1_12_06_2018_QueenBee_H1_audio___15_20_00.lab
+991ca0846251d5f724e03f74ac4479c1  Hive1_12_06_2018_QueenBee_H1_audio___15_20_00.wav
+0db8bd95f521294f89622c0143096884  Hive1_12_06_2018_QueenBee_H1_audio___15_30_00.lab
+f8d3ce9a274775b177c2db85237acbf6  Hive1_12_06_2018_QueenBee_H1_audio___15_30_00.wav
+094013ae77b2837f30ea3915c03bc4ad  Hive1_12_06_2018_QueenBee_H1_audio___15_40_00.lab
+df5a7857a2dcb3fca8593b45c012402f  Hive1_12_06_2018_QueenBee_H1_audio___15_40_00.wav
+f8554aa2a205c244c21f94c28bbad67c  Hive1_12_06_2018_QueenBee_H1_audio___16_00_00.lab
+ffe657b0861ab28000ba46abc1e16eae  Hive1_12_06_2018_QueenBee_H1_audio___16_00_00.wav
+9db906eca9d09f487a0f3227f3a425e2  Hive1_12_06_2018_QueenBee_H1_audio___16_10_00.lab
+814a2c99101742f6efdbba09869a95ef  Hive1_12_06_2018_QueenBee_H1_audio___16_10_00.wav
+13c9a0654784760203d1a0c6e8a9acb4  Hive1_12_06_2018_QueenBee_H1_audio___16_20_00.lab
+f92e505d995fd5a2b044f218d6549ad7  Hive1_12_06_2018_QueenBee_H1_audio___16_20_00.wav
+d9b083f4e3fe00dddd1810340240ce1d  Hive1_12_06_2018_QueenBee_H1_audio___16_30_00.lab
+dfd83a1b4ee5fee33a27e80c9786fbaf  Hive1_12_06_2018_QueenBee_H1_audio___16_30_00.wav
+b0ab908c04a713bba80531d84d891c0a  Hive1_12_06_2018_QueenBee_H1_audio___16_40_00.lab
+ac3d907a6abcb1669aa04e8a38fd7e98  Hive1_12_06_2018_QueenBee_H1_audio___16_40_00.wav
+a321cc3d254a35615f197b2154602ffc  Hive1_12_06_2018_QueenBee_H1_audio___16_50_00.lab
+8029f8d923d45fdf7d3c0ea2397b278e  Hive1_12_06_2018_QueenBee_H1_audio___16_50_00.wav
+67244b6cbd79d47b79290c3779444cf9  Hive1_12_06_2018_QueenBee_H1_audio___17_00_00.lab
+ad613f405c9282dba66b65101c6a8942  Hive1_12_06_2018_QueenBee_H1_audio___17_00_00.wav
+f99b55b4b97d533e197f1ae69e89b7f7  Hive1_31_05_2018_NO_QueenBee_H1_audio___15_00_00.lab
+96879187a1999a6f6b8e1c9b859e01c3  Hive1_31_05_2018_NO_QueenBee_H1_audio___15_00_00.wav
+fb417ce061cde2691dfeb5611bc980c5  Hive1_31_05_2018_NO_QueenBee_H1_audio___15_10_00.lab
+cf1e9a76bbcdb00d2154a41034da2333  Hive1_31_05_2018_NO_QueenBee_H1_audio___15_10_00.wav
+9322a92042a2a5dfa296859ca9b25b3f  Hive1_31_05_2018_NO_QueenBee_H1_audio___15_20_00.lab
+3f54b05c6c1ae222c3349691bc9338ee  Hive1_31_05_2018_NO_QueenBee_H1_audio___15_20_00.wav
+2d59cfb9e302ca9dcd828e4f32ee7e75  Hive1_31_05_2018_NO_QueenBee_H1_audio___15_30_00.lab
+adf7547b3c873e511d86b9980ec9ccf4  Hive1_31_05_2018_NO_QueenBee_H1_audio___15_30_00.wav
+62f6ec25fe641811bc79a4288532ac9b  Hive1_31_05_2018_NO_QueenBee_H1_audio___15_40_00.lab
+70008431a366a0a35a49347fa498bec0  Hive1_31_05_2018_NO_QueenBee_H1_audio___15_40_00.wav
+726c51d23ac47cd092760207887284ac  Hive3_12_07_2017_NO_QueenBee_H3_audio___15_00_00.lab
+39b2ef68c170ebc6715449f631e07b54  Hive3_12_07_2017_NO_QueenBee_H3_audio___15_00_00.wav
+90b0c7e7f706801df521487f392f654c  Hive3_12_07_2017_NO_QueenBee_H3_audio___15_10_00.lab
+d1bd96e49d6eb73ed56657d54ce64d24  Hive3_12_07_2017_NO_QueenBee_H3_audio___15_10_00.wav
+614da974e0d91697aa5c8f1e913d8243  Hive3_12_07_2017_NO_QueenBee_H3_audio___15_20_00.lab
+d1db7f03f06a6f13a281e2c964b52d08  Hive3_12_07_2017_NO_QueenBee_H3_audio___15_20_00.wav
+8b2c08a5d3d92957862e41861c07fbdd  Hive3_12_07_2017_NO_QueenBee_H3_audio___15_30_00.lab
+4a11bb084d2898c3c14b12adf8a343b0  Hive3_12_07_2017_NO_QueenBee_H3_audio___15_30_00.wav
+63fdd2d1cf996b15f9201a8827280f24  Hive3_12_07_2017_NO_QueenBee_H3_audio___15_40_00.lab
+e25f7faa524cfa28d53bb5ad4b4c967e  Hive3_12_07_2017_NO_QueenBee_H3_audio___15_40_00.wav
+310edfa49d5d30e789f2f5c9a36b3f38  Hive3_12_07_2017_NO_QueenBee_H3_audio___15_50_00.lab
+825f902b9844a9e5f8f3a53785543b1d  Hive3_12_07_2017_NO_QueenBee_H3_audio___16_00_00.lab
+c9c94a3b2cd16f9b6b3f8cf28c918892  Hive3_12_07_2017_NO_QueenBee_H3_audio___16_10_00.lab
+25d5a16b19425ab2eeae7fd15ea54a54  Hive3_12_07_2017_NO_QueenBee_H3_audio___16_20_00.lab
+09b8dbe04c2fc1cbf5e0c5203a27d3bf  Hive3_12_07_2017_NO_QueenBee_H3_audio___16_20_00.wav
+a513868ad3d5767b639d720b85be2f2d  Hive3_12_07_2017_NO_QueenBee_H3_audio___16_30_00.lab
+751cf921a4cf79157101b78784c77d32  Hive3_12_07_2017_NO_QueenBee_H3_audio___16_30_00.wav
+bf9bc92079d71b11f20431050272d980  Hive3_12_07_2017_NO_QueenBee_H3_audio___16_40_00.lab
+9c65d6fa23ae86397b6c857c8337e7d8  Hive3_12_07_2017_NO_QueenBee_H3_audio___16_40_00.wav
+2a9f207a5ee6180ba97a8b187b43b288  Hive3_12_07_2017_NO_QueenBee_H3_audio___16_50_00.lab
+2d8a77269e8d4c54f15c8fb727695d43  Hive3_12_07_2017_NO_QueenBee_H3_audio___16_50_00.wav
+d2fa29342d208e429a9d5260455ee881  Hive3_12_07_2017_NO_QueenBee_H3_audio___17_00_00.lab
+820c6620c14910d179b1921762a31ab0  Hive3_12_07_2017_NO_QueenBee_H3_audio___17_00_00.wav
+07091eaf23fcf8de430b2906ce3c3196  Hive3_15_07_2017_NO_QueenBee_H3_audio___06_10_00.lab
+a588c9c2c1ce71344286a77251e964a8  Hive3_15_07_2017_NO_QueenBee_H3_audio___06_10_00.wav
+e23b13fde3f8526e24aa0572d2176340  Hive3_15_07_2017_NO_QueenBee_H3_audio___06_20_00.lab
+9e9b22a2b2bdb9ca52b9e08a9146a85e  Hive3_15_07_2017_NO_QueenBee_H3_audio___06_20_00.wav
+f59021d2dd0ce893a97647e56779aa76  Hive3_15_07_2017_NO_QueenBee_H3_audio___06_30_00.lab
+4d850d26101eec13b5a7a2e07dcda1ca  Hive3_15_07_2017_NO_QueenBee_H3_audio___06_30_00.wav
+8e14b046d8e5152b94fce28a3fb2de6c  Hive3_15_07_2017_NO_QueenBee_H3_audio___06_40_00.lab
+d908764485e6fabd3d9d4f4b9e0f318d  Hive3_15_07_2017_NO_QueenBee_H3_audio___06_40_00.wav
+381246831497532585afbb715179dba4  Hive3_15_07_2017_NO_QueenBee_H3_audio___06_50_00.lab
+976473091af608b0fa34c9f573cf5d6a  Hive3_15_07_2017_NO_QueenBee_H3_audio___06_50_00.wav
+47bd76d7a594aab8982c1b875c0eaf37  Hive3_15_07_2017_NO_QueenBee_H3_audio___07_00_00.lab
+f1a35afd9b9a3a4385f49777061d1c00  Hive3_15_07_2017_NO_QueenBee_H3_audio___07_00_00.wav
+6d23716811d94b91889ffc35607067ad  Hive3_20_07_2017_QueenBee_H3_audio___06_10_00.lab
+bb5b70ed826b4e30a6f6a3c8594b24f5  Hive3_20_07_2017_QueenBee_H3_audio___06_10_00.wav
+33d4f2d6cbcb7eed4a02a55f63919ad2  Hive3_20_07_2017_QueenBee_H3_audio___06_20_00.lab
+b6f57051366cdbee631a2107ed8b82d3  Hive3_20_07_2017_QueenBee_H3_audio___06_20_00.wav
+5c2f5d65a62d868be9bfc9c71c06a7fa  Hive3_20_07_2017_QueenBee_H3_audio___06_30_00.lab
+9e43341b260b9f1bafe145094c112ce3  Hive3_20_07_2017_QueenBee_H3_audio___06_40_00.lab
+650d61c0ab90dd47d2884a02120b5fce  Hive3_20_07_2017_QueenBee_H3_audio___06_50_00.lab
+3e6f16a7eb88c9f070b87559e4d08ca4  Hive3_20_07_2017_QueenBee_H3_audio___07_00_00.lab
+80468a4dd956e67315031c1541ef5f73  Hive3_20_07_2017_QueenBee_H3_audio___15_00_00.lab
+902022b68b3f6887d84d7301cb7337eb  Hive3_20_07_2017_QueenBee_H3_audio___15_10_00.lab
+c0e0e110669662fdecede7367efc9355  Hive3_20_07_2017_QueenBee_H3_audio___15_20_00.lab
+14623ab7c0fcd5fc3e96b7bda1804a09  Hive3_20_07_2017_QueenBee_H3_audio___15_30_00.lab
+6dd02be08db4a83edbc22159b7b0f1c1  Hive3_20_07_2017_QueenBee_H3_audio___15_40_00.lab
+828100c4231d12d947c356bb7c249ec9  Hive3_20_07_2017_QueenBee_H3_audio___15_50_00.lab
+9faac5d41c6b9f019043ed0089df5c07  Hive3_20_07_2017_QueenBee_H3_audio___16_00_00.lab
+43df1750e0533a3bcf401f2aee57355a  Hive3_20_07_2017_QueenBee_H3_audio___16_10_00.lab
+66e4ac173582918bdf868ae98b77e718  Hive3_20_07_2017_QueenBee_H3_audio___16_20_00.lab
+b3dde08fc024d4e123522fdef54846ff  Hive3_20_07_2017_QueenBee_H3_audio___16_30_00.lab
+68926f7b65a05d11e3d6fa7ebc4d194d  Hive3_20_07_2017_QueenBee_H3_audio___16_40_00.lab
+6b5117f0208519c4842da5f54b9a74d3  Hive3_20_07_2017_QueenBee_H3_audio___16_50_00.lab
+e1249d358d702a86197e7b398d5516a0  Hive3_20_07_2017_QueenBee_H3_audio___17_00_00.lab
+cca8ac6eba7f9357e344c0d0e509ee56  Sound Inside a Swarming Bee Hive  -25 to -15 minutes-sE02T8B2LfA.lab
+1ac73db76e2aa12424a67ed28e7c1d4a  Sound Inside a Swarming Bee Hive +5 to +15 minutes-BIZx-8kLrdw.lab

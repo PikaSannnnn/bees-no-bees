@@ -1,0 +1,112 @@
+CF003 - Active - Day - (214).wav
+[0, 0, 0, 0, 0]
+CF003 - Active - Day - (215).wav
+[0, 0, 0, 0, 0]
+CF003 - Active - Day - (216).wav
+[1, 1, 1, 1, 1]
+CF003 - Active - Day - (217).wav
+[0, 1, 0, 1, 0]
+CF003 - Active - Day - (218).wav
+[1, 1, 0, 0, 0]
+CF003 - Active - Day - (219).wav
+[1, 1, 0, 1, 1]
+CF003 - Active - Day - (220).wav
+[1, 1, 1, 1, 1]
+CF003 - Active - Day - (221).wav
+[1, 1, 0, 1, 1]
+CF003 - Active - Day - (222).wav
+[1, 1, 1, 1, 1]
+CF003 - Active - Day - (223).wav
+[0, 1, 1, 1, 1]
+CF003 - Active - Day - (224).wav
+[1, 1, 1, 1, 1]
+CF003 - Active - Day - (225).wav
+[1, 1, 1, 1, 1]
+CF003 - Active - Day - (226).wav
+[1, 0, 1, 1, 1]
+CF003 - Active - Day - (227).wav
+[0, 1, 1, 0, 1]
+CJ001 - Missing Queen - Day -  (100).wav
+[0, 0, 0, 0, 0]
+CJ001 - Missing Queen - Day -  (101).wav
+[1, 0, 0, 0, 0]
+CJ001 - Missing Queen - Day -  (102).wav
+[0, 0, 1, 1, 0]
+CJ001 - Missing Queen - Day -  (103).wav
+[0, 0, 0, 0, 0]
+CJ001 - Missing Queen - Day -  (104).wav
+[0, 0, 0, 0, 0]
+Hive1_12_06_2018_QueenBee_H1_audio___15_00_00.wav
+[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+Hive1_12_06_2018_QueenBee_H1_audio___15_10_00.wav
+[0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+Hive1_12_06_2018_QueenBee_H1_audio___15_20_00.wav
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Hive1_12_06_2018_QueenBee_H1_audio___15_30_00.wav
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Hive1_12_06_2018_QueenBee_H1_audio___15_40_00.wav
+[1, 1, 0, 0, 0, 0, 1, 1, 0, 0]
+Hive1_12_06_2018_QueenBee_H1_audio___16_00_00.wav
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Hive1_12_06_2018_QueenBee_H1_audio___16_10_00.wav
+[0, 0, 0, 0, 0, 0, 0, 1, 0, 0]
+Hive1_12_06_2018_QueenBee_H1_audio___16_20_00.wav
+[0, 0, 0, 1, 1, 0, 0, 0, 1, 0]
+Hive1_12_06_2018_QueenBee_H1_audio___16_30_00.wav
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Hive1_12_06_2018_QueenBee_H1_audio___16_40_00.wav
+[1, 1, 0, 0, 0, 0, 0, 0, 0, 1]
+Hive1_12_06_2018_QueenBee_H1_audio___16_50_00.wav
+[0, 0, 0, 0, 1, 0, 1, 1, 0, 0]
+Hive1_12_06_2018_QueenBee_H1_audio___17_00_00.wav
+[0, 0, 0, 0, 1, 0, 1, 0, 0, 0]
+Hive1_31_05_2018_NO_QueenBee_H1_audio___15_00_00.wav
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Hive1_31_05_2018_NO_QueenBee_H1_audio___15_10_00.wav
+[0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+Hive1_31_05_2018_NO_QueenBee_H1_audio___15_20_00.wav
+[1, 0, 0, 1, 0, 0, 0, 0, 0, 1]
+Hive1_31_05_2018_NO_QueenBee_H1_audio___15_30_00.wav
+[1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Hive1_31_05_2018_NO_QueenBee_H1_audio___15_40_00.wav
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Hive3_12_07_2017_NO_QueenBee_H3_audio___15_00_00.wav
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Hive3_12_07_2017_NO_QueenBee_H3_audio___15_10_00.wav
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Hive3_12_07_2017_NO_QueenBee_H3_audio___15_20_00.wav
+[1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Hive3_12_07_2017_NO_QueenBee_H3_audio___15_30_00.wav
+[0, 1, 0, 0, 0, 0, 0, 0, 1, 0]
+Hive3_12_07_2017_NO_QueenBee_H3_audio___15_40_00.wav
+[1, 1, 0, 0, 0, 1, 1, 1, 0, 0]
+Hive3_12_07_2017_NO_QueenBee_H3_audio___16_20_00.wav
+[1, 1, 1, 1, 0, 0, 0, 0, 0, 1]
+Hive3_12_07_2017_NO_QueenBee_H3_audio___16_30_00.wav
+[1, 1, 1, 1, 0, 0, 0, 0, 1, 1]
+Hive3_12_07_2017_NO_QueenBee_H3_audio___16_40_00.wav
+[0, 1, 1, 0, 0, 0, 0, 0, 0, 0]
+Hive3_12_07_2017_NO_QueenBee_H3_audio___16_50_00.wav
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 1]
+Hive3_12_07_2017_NO_QueenBee_H3_audio___17_00_00.wav
+[1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Hive3_15_07_2017_NO_QueenBee_H3_audio___06_10_00.wav
+[0, 0, 0, 0, 1, 0, 0, 0, 0, 0]
+Hive3_15_07_2017_NO_QueenBee_H3_audio___06_20_00.wav
+[0, 0, 0, 0, 0, 0, 1, 0, 1, 0]
+Hive3_15_07_2017_NO_QueenBee_H3_audio___06_30_00.wav
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 1]
+Hive3_15_07_2017_NO_QueenBee_H3_audio___06_40_00.wav
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Hive3_15_07_2017_NO_QueenBee_H3_audio___06_50_00.wav
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 1]
+Hive3_15_07_2017_NO_QueenBee_H3_audio___07_00_00.wav
+[1, 0, 0, 0, 1, 0, 0, 1, 1, 0]
+Hive3_20_07_2017_QueenBee_H3_audio___06_10_00.wav
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Hive3_20_07_2017_QueenBee_H3_audio___06_20_00.wav
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+CF001 - Missing Queen - Day -.mp3
+[1]
+GH001 - Active - Day - 141022_0659_0751.mp3
+[1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]
